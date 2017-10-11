@@ -1,4 +1,5 @@
 
+
 def fib(n):
     """
     every number after the first two is the sum of the two preceding ones
